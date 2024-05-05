@@ -1,3 +1,4 @@
-# Game_Mechanic_385
+# Left-Shift Dashing (2D)
 
-H1 Left-Shift Dashing (2D)
+Description
+This mechanic shows how to implement dashing in 2D.
